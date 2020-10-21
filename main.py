@@ -4,6 +4,7 @@ import random
 import math
 from pygame import mixer
 
+
 pygame.init()
 
 # create game screen
